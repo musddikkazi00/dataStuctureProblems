@@ -1,0 +1,5 @@
+
+Tree : - isme node & childrens hote hain 
+
+Node - has  3 field  :- 1: data , 2: left Pointer , 3: right Pointer
+
